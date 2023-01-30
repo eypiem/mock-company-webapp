@@ -8,4 +8,5 @@
  */
 
 rootProject.name = 'mock-company-webapp'
-include 'client-app'
+// Disabled because of yarn build error
+//include 'client-app'
